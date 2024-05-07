@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RjKXCeVKMt1AE+UG/f0tBFlwKU4fvoKB6c/Br/JPRvaJibdJm8Q/Oy5sskAZcrVyfzblqLccVTx9H7kTFTh08w==",
+  "dgSpecHash": "jeTXIs0Erhvg9psAQxHrHDxFDw9Mdzm12QOEMtRUZnDb1Xlhk37MAFppcvITQwMXeMfa3AIlZ/GektIaMz0cPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ca.r214.17\\Desktop\\samir022\\MultiShopApp\\MultiShop\\MultiShop.csproj",
+  "projectFilePath": "C:\\Users\\ca.r214.17\\Desktop\\multiShop\\MultiShopApp\\MultiShop\\MultiShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ca.r214.17\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ca.r214.17\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
