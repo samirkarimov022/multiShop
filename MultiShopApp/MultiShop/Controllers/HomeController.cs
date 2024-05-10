@@ -11,7 +11,16 @@ namespace MultiShop.Controllers
         public IActionResult Contact()
         {
             return View();
+        }     
+        public IActionResult Checkout()
+        {
+            return View();
+        } 
+        public IActionResult Cart()
+        {
+            return View();
         }
+
 
     }
 }
